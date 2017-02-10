@@ -1,0 +1,4 @@
+Compiling scss
+
+sass main.scss main.css
+
