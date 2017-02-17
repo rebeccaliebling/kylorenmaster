@@ -1,4 +1,3 @@
 # kylorenmaster
 Everything including lots o stuff more
-
-Codecademy exercise answers!
+Everything you need to know about Minecraft
